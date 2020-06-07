@@ -1,0 +1,29 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+text-align: justify;
+background-color: #FCFDD2;
+ color: #4719E4
+}
+h1,h2,h3,h4,h5,h6 {
+line-height: 1.5em;
+text-align: center; 
+color: #0B9B74;
+}
+h2,h1,h3 {
+	text-transform: uppercase;
+}
+h4,h5,h6 {
+	text-transform: capitalize;
+}
+div{
+padding: 25px 5px;
+}
+p{
+text-align: justify;
+color: #114892;
+line-height: 1.5em;
+padding: 5px 25px;
+}
